@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/pauljackals/ct-travis.svg?branch=master)](https://travis-ci.com/pauljackals/ct-travis)
